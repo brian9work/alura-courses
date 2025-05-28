@@ -1,0 +1,25 @@
+Java tiene ocho tipos primitivos diferentes: boolean, byte, char, short, int, long, float y double.
+
+boolean:
+    true o false.
+
+byte:
+    Valores numéricos enteros de 8 bits. Tiene un rango de valores de -128 a 127.
+
+char:
+    Caracteres individuales. Se representa con comillas simples ('').
+
+short:
+    Representar valores numéricos enteros de 16 bits. Tiene un rango de valores de -32.768 a 32.767.
+
+int:
+    Representar valores numéricos enteros de 32 bits. tiene un rango de valores de -2.147.483.648 a 2.147.483.647.
+
+long:
+    Representar valores numéricos enteros de 64 bits. Tiene un rango de valores de -9.223.372.036.854.775.808 a 9.223.372.036.854.775.807.
+
+float:
+    Representar valores numéricos de punto flotante, es decir, valores con decimales. Ocupa 32 bits de memoria. Puede representar números decimales con hasta siete dígitos y tiene una precisión limitada, lo que significa que puede redondear los números si son demasiado grandes o demasiado pequeños.
+
+double:
+    El tipo double es similar al float, pero ocupa 64 bits de memoria y puede representar números decimales con hasta quince dígitos.
